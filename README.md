@@ -52,6 +52,10 @@ Criar uma API que será consumida por uma aplicaçāo de agendamento de reservas
 
 Qualquer linguagem back-end.
 
+### Importante:
+
+Código limpo e comentado sāo requisitos do desafio.
+
 
 ## :tada: Entrega
 
