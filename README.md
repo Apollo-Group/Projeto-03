@@ -18,39 +18,27 @@
 
 ## :computer:Sobre o desafio
 
-### Objetivo:
+## Objetivo:
 
-Criar uma API que seja consumido por um sistema de cadastro de alunos, que recebe as seguintes informacoes de cada aluno:
-- Nome;
-- Sobrenome;
-- Idade;
-- Endereço;
-- Serie Escolar Atual;
-- Nome do Māe;
+Criar uma API que será consumida por uma aplicaçāo de agendamento de reservas e pedidos de restaurantes.
 
-A API precisar ter as seguintes funcionalidades:
-- Listar todos os alunos cadastrados;
-- Cadastro de Alunos;
-- Atualizar o Cadastro de um Aluno;
-- Deletar o Cadastro de um Aluno;
+### Funcionalidades Geral (Dono do Restaurante e Cliente):
+#### 1) Autenticaçāo:
+- Permita que um usuário se autentique em sua aplicação utilizando e-mail e senha.
 
-Observações e Restrições:
-- Todos os campos sāo obrigatórios, caso um dos campos nāo esteja preenchido, o cadastro nāo pode ser realizado.
-- A coluna Idade possui o tipo de dado numérico, e os outros campos sāo do tipo string.
+
+### Funcionalidades (Dono do Restaurante):
+
+### Funcionalidades (Cliente):
 
 <p align="center">
-  <img src="./assets/school.jpg">
+  <img src="./assets/restaurante.jpg">
 </p>
 
 ### Conhecimento em:
 
 Qualquer linguagem back-end.
 
-### Informações sobre o desafio:
-
-Clique para ver o <a href="https://github.com/Apollo-Group/Projeto-02-Template" target="_blank" rel="noopener noreferrer">
-Template
-</a> do desafio.
 
 ## :tada: Entrega
 
