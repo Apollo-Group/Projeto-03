@@ -25,14 +25,27 @@ Criar uma API que será consumida por uma aplicaçāo de agendamento de reservas
 ### Funcionalidades Geral (Dono do Restaurante e Cliente):
 #### 1) Autenticaçāo:
 - Permita que um usuário se autentique em sua aplicação utilizando e-mail e senha.
-
+- Permita que novos usuários se cadastrem em sua aplicação utilizando nome, e-mail e senha.
+- Para atualizar a senha, o usuário deve também enviar um campo de confirmação com a mesma senha.
+- Criptografe a senha do usuário para segurança.
+- Realize a validação dos dados de entrada.
+- Crie uma rota para upload de arquivos que cadastra em uma tabela o caminho e nome do arquivo e retorna todos dados do arquivo cadastrado.
 
 ### Funcionalidades (Dono do Restaurante):
+- Cadastrar Restaurante (nome, imagem, descriçāo, segmento).
+- Cadastrar Cardápio do Restaurante (nome do prato, valor do prato).
+- Listar todas as reservas do seu restaurante.
+- Clicar na reserva recebida para ver qual pedido foi feito.
 
 ### Funcionalidades (Cliente):
+- Listar todos os restaurantes.
+- Escolher um restaurante e fazer o agendamento da reserva. Escolhendo a data, horário e o prato.
+- Listar todos os agendamentos realizados de um único usuário, iniciando pela data mais próxima.
+- O cancelamento só poderá ser feito com pelo menos 24 horas de antecedência da reserva.
+- Assim que o usuário confirmar ou cancelar uma reserva, um aviso por e-mail é enviado para o dono do restaurante.
 
 <p align="center">
-  <img src="./assets/restaurante.jpg">
+  <img src="./assets/restaurante.jpg" width=600>
 </p>
 
 ### Conhecimento em:
