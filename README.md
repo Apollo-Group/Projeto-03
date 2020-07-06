@@ -61,7 +61,7 @@ Código limpo e comentado sāo requisitos do desafio.
 
 ## :tada: Entrega
 
-Copie a URL do repositório com o desafio e envie pela plataforma: https://platform.apollopartners.com.br/
+Copie a URL do repositório com o desafio e envie pela plataforma: https://plataforma.apollopartners.com.br/
 
 ## :question: Dúvidas
 
