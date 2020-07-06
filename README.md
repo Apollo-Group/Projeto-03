@@ -44,7 +44,7 @@ Criar uma API que será consumida por uma aplicaçāo de pedidos de restaurantes
 - Listar todos os pratos;
 - Mostrar detalhes de um determinado prato;
 - Realizar um pedido;
-- O cancelamento só poderá ser realizar, se o pedido não estiver com o status iniciado;
+- O cancelamento só poderá ser realizado, se o pedido não estiver com o status iniciado;
 
 <p align="center">
   <img src="./assets/restaurante.jpg" width=600>
